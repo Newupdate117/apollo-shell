@@ -1,2 +1,2 @@
-# ares-shell
-An AI-powered command-line shell using natural language.
+# apollo-shell
+An AI-powered Outage map
